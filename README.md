@@ -118,4 +118,6 @@ Darknet markets can be used for private, anonymous transactions. By following se
 
 Please contribute and add stars to this repo.
 
-Update:  07/14/2025 03-57
+
+
+Update:  18.07.2025
