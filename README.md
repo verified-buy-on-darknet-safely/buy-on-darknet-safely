@@ -120,4 +120,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  18.07.2025
+
+
+Update:  Monday 21 July 2025 Link validation
